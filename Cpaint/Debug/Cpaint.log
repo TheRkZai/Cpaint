@@ -1,0 +1,17 @@
+﻿  stdafx.cpp
+  PenSize.cpp
+  PaintDlg.cpp
+  MainFrm.cpp
+  InputString.cpp
+  DukeDlg.cpp
+  CpaintView.cpp
+e:\学习\大三上\高级编程技术\cpaint\cpaint\cpaintview.cpp(217): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\学习\大三上\高级编程技术\cpaint\cpaint\cpaintview.cpp(757): warning C4129: “: 不可识别的字符转义序列
+e:\学习\大三上\高级编程技术\cpaint\cpaint\cpaintview.cpp(1059): warning C4129: “: 不可识别的字符转义序列
+e:\学习\大三上\高级编程技术\cpaint\cpaint\cpaintview.cpp(1603): warning C4477: “swprintf_s”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“CString”
+e:\学习\大三上\高级编程技术\cpaint\cpaint\cpaintview.cpp(1603): warning C4477: “swprintf_s”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 2 拥有了类型“CString”
+  CpaintDoc.cpp
+  Cpaint.cpp
+  Character.cpp
+  正在生成代码...
+  Cpaint.vcxproj -> E:\学习\大三上\高级编程技术\Cpaint\Debug\Cpaint.exe
