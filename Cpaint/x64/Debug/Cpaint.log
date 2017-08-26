@@ -1,9 +1,39 @@
-﻿生成启动时间为 2017/8/16 20:55:26。
-     1>项目“E:\学习\大三上\高级编程技术\Cpaint\Cpaint\Cpaint.vcxproj”在节点 2 上(Build 个目标)。
-     1>Link:
+﻿生成启动时间为 2017/8/23 13:37:32。
+     1>项目“E:\学习\大三上\高级编程技术\Cpaint\Cpaint\Cpaint.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /Od /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"x64\Debug\Cpaint.pch" /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /Od /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"x64\Debug\Cpaint.pch" /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt Character.cpp Cpaint.cpp CpaintDoc.cpp CpaintView.cpp DukeDlg.cpp InputString.cpp MainFrm.cpp PaintDlg.cpp PenSize.cpp
+         PenSize.cpp
+         PaintDlg.cpp
+         MainFrm.cpp
+         InputString.cpp
+         DukeDlg.cpp
+         CpaintView.cpp
+     1>CpaintView.cpp(217): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>CpaintView.cpp(757): warning C4129: “: 不可识别的字符转义序列
+     1>CpaintView.cpp(1059): warning C4129: “: 不可识别的字符转义序列
+         CpaintDoc.cpp
+         Cpaint.cpp
+         Character.cpp
+         正在生成代码...
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /l"0x0804" /Ix64\Debug\ /nologo /fo"x64\Debug\Cpaint.res" Cpaint.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"E:\学习\大三上\高级编程技术\Cpaint\x64\Debug\Cpaint.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"E:\学习\大三上\高级编程技术\Cpaint\x64\Debug\Cpaint.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\学习\大三上\高级编程技术\Cpaint\x64\Debug\Cpaint.lib" /MACHINE:X64 x64\Debug\Cpaint.res
+         x64\Debug\Character.obj
+         x64\Debug\Cpaint.obj
+         x64\Debug\CpaintDoc.obj
+         x64\Debug\CpaintView.obj
+         x64\Debug\DukeDlg.obj
+         x64\Debug\InputString.obj
+         x64\Debug\MainFrm.obj
+         x64\Debug\PaintDlg.obj
+         x64\Debug\PenSize.obj
+         x64\Debug\stdafx.obj
          Cpaint.vcxproj -> E:\学习\大三上\高级编程技术\Cpaint\x64\Debug\Cpaint.exe
-     1>已完成生成项目“E:\学习\大三上\高级编程技术\Cpaint\Cpaint\Cpaint.vcxproj”(Build 个目标)的操作。
+     1>已完成生成项目“E:\学习\大三上\高级编程技术\Cpaint\Cpaint\Cpaint.vcxproj”(Rebuild 个目标)的操作。
 
 生成成功。
 
-已用时间 00:00:00.07
+已用时间 00:00:09.81
